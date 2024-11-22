@@ -7,7 +7,7 @@
     <img src="https://github.com/omkarpawar7000/livedocs/blob/3474d1cce2b42cdcc31689dd4c060755236013ec/typescript.svg" alt="typescript" />
     <img src="https://github.com/omkarpawar7000/livedocs/blob/3474d1cce2b42cdcc31689dd4c060755236013ec/nextjs.svg" alt="nextdotjs" />
     <img src="https://github.com/omkarpawar7000/livedocs/blob/3474d1cce2b42cdcc31689dd4c060755236013ec/tailwindcss.svg" alt="tailwindcss" />
-    <img src="https://github.com/omkarpawar7000/livedocs/blob/3474d1cce2b42cdcc31689dd4c060755236013ec/appwrite.svg" alt="appwrite" />
+    <img src="https://github.com/omkarpawar7000/store_it/blob/3e7271446a6a8f68602269dbcd2fa2b43923208a/appwrite.svg" alt="appwrite" />
   </div>
 
   <h3 align="center">StoreIt - A Storage Management Solution</h3>
