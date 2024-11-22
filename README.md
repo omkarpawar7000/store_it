@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/omkarpawar7000/store_it/blob/b8f687ed769b744381dc2a0d3803fd9bb9891773/gdrive_banner.png" alt="Project Banner">
+      <img src="https://github.com/omkarpawar7000/store_it/blob/97f76a7b295a191fd82f052cd0b4231caff7b4de/storeit_banner.jpg" alt="Project Banner">
   <br />
 
   <div>
